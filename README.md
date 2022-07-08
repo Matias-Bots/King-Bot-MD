@@ -1,7 +1,7 @@
 > #### 🚀 Versión actual: 1.1.5
 
 <p align="center"> 
-  <a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=NEKOBOT-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The King Bot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 <p align="center">
@@ -9,32 +9,29 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> <img src="https://c.tenor.com/rpxskLc31d8AAAAC/chica-anime.gif" height="28px">
+<a href="#"><img title="The King Bot" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> <img src="https://c.tenor.com/rpxskLc31d8AAAAC/chica-anime.gif" height="28px">
 </p>  
 
 <p align="center">
 </p>
-<a href="#"><img title="NEKOBOT-MD" src="https://img.shields.io/badge/ES NECESARIO QUE LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="NEKOBOT-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="The King Bot-MD" src="https://img.shields.io/badge/ES NECESARIO QUE LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
+<a href="#"><img title="The King Bot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 </a>
     
 <p align="higt">   
-<a href="https://github.com/GataNina-Li/GataBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Matias-Bots/King-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Matias-Bots/King-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Matias-Bots/King-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
-
------
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 <p align="hihg">   
-<a href="https://instagram.com/gata_dios" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+<a href=https://instagram.com/matiass.zzz" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
   
-[![blog](https://img.shields.io/badge/Grupo-NEKOBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JFWw8YQJ5udBeSVa9Sv8us)  <a href="https://chat.whatsapp.com/JFWw8YQJ5udBeSVa9Sv8us"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/Grupo-The King-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R)  <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo2-NEKOBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh) <a href="https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
