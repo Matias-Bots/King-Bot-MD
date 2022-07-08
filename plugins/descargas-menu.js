@@ -114,7 +114,7 @@ let menu = `
 ┃🚀➺ _${usedPrefix}mediafire | dlmediafire *link*_
 ┃🚀➺ _${usedPrefix}clonarepo | gitclone *link*_
 ╰━━━━━━━━━━━━━━━━━━━⬣`.trim()
-conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/Sofiaperez18/NEKOBOT-MD.git', '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗', null, null, [
+conn.sendHydrated(m.chat, menu, wm, pp, 'https://instagram.com/matiass.zzz.git', '𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓-𝐌𝐃', null, null, [
 ['𝙈𝙚𝙣𝙪́ 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙤 | 𝙁𝙪𝙡𝙡 𝙈𝙚𝙣𝙪 💛', '.allmenu'],
 ['𝙈𝙚𝙣𝙪 𝙙𝙚𝙨𝙥𝙡𝙚𝙜𝙖𝙗𝙡𝙚 | 𝙈𝙚𝙣𝙪 𝙇𝙞𝙨𝙩 💙', '/menulista'],
 ['𝙈𝙚𝙣𝙪 𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡 | 𝙈𝙖𝙞𝙣 𝙢𝙚𝙣𝙪 💚', '#menu']
