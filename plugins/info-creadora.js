@@ -2,16 +2,14 @@ import fs from 'fs'
 function handler(m, { conn }) {
 let text = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤 | 𝘾𝙤𝙣𝙩𝙖𝙘𝙩* 
-*Wa.me/50495086382 (NO BOT)*
-*Wa.me/50498965677 (BOT)*
-*Wa.me/525573031859 (NO BOT)*
+*Wa.me/595985958156(NO BOT)*
 `.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '𝘕𝘌𝘒𝘖𝘉𝘖𝘛-𝘔𝘋| 𝘌𝘙𝘐𝘒𝘈𝘉𝘖𝘛-𝘔𝘋',
-body: '𝐂𝐫𝐞𝐚𝐝𝐨𝐫𝐚😎| 𝐂𝐫𝐞𝐚𝐭𝐨𝐫😎',         
+title: 'ᴛʜᴇ ᴋɪɴɢ ʙᴏᴛ-ᴍᴅ',
+body: '𝐂𝐫𝐞𝐚𝐝𝐨𝐫😎| 𝐂𝐫𝐞𝐚𝐭𝐨𝐫😎',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://wa.me/50495086382`}}})
+sourceUrl: ``}}})
   
 //const data = global.owner.filter(([id, isCreator]) => id && isCreator)
 //this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
