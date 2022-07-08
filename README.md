@@ -1,7 +1,7 @@
 > #### 🚀 Versión actual: 1.1.5
 
 <p align="center"> 
-  <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The King Bot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=TheKingBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
   
-[![blog](https://img.shields.io/badge/Grupo-The King-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Grupo1The King -25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R)  <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo2-NEKOBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
