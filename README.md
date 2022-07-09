@@ -1,11 +1,11 @@
 > #### 🚀 Versión actual: 1.1.5
 
 <p align="center"> 
-  <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=TheKingBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/Matias-Bots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The+King+Bot+-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 <p align="center">
-<img src="https://w0.peakpx.com/wallpaper/197/271/HD-wallpaper-beautiful-anime-girl-girl-beautiful-anime-blonde.jpg" alt="NEKOBOT-MD" width="900"/>
+<img src="https://w0.peakpx.com/wallpaper/197/271/HD-wallpaper-beautiful-anime-girl-girl-beautiful-anime-blonde.jpg" alt="The King Bot-MD" width="900"/>
 </p>
 
 <p align="center">
@@ -31,26 +31,6 @@
 </p>
   
 
------
-### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
-### 🟣 ACTIVAR EN HEROKU 
-#### ☂️ PARA USUARIOS DE HEROKU 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBot-MD) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
-### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
-```bash
-> heroku/nodejs
-```
-```bash
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-```bash
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
------
 
 ### ACTIVAR EN TERMUX  <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="30px">
 ```bash
@@ -64,8 +44,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Sofianayeli/NEKOBOT-MD
-> cd NEKOBOT-MD
+> git clone https://github.com/Matias-Bots/King-Bot-MD
+> cd Kkng-Bot-MD
 > npm install
 > yarn install 
 > npm install
@@ -76,14 +56,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ----    
 ###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
 - CLONAR EL REPOSITORIO [`Aquí`](https://github.com/GataNina-Li/GataBot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/Matias-Bots/King-Bot-MD/blob/master/config.js)
 ----  
 
 ### ACTIVAR EN CASO DE DETENERSE <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd NEKOBOT-MD
+> cd Kkng-Bot-MD 
 > npm start
 ```
 ----
@@ -92,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd NEKOBOT-MD
+> cd Kkng-Bot-MD 
 > rm -rf session.data.json
 > npm start
 ```
@@ -114,10 +94,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 ----
-### 🌟 CREADORA 
+### 🌟 CREADOR
  <p
   align="higt">    
-<img src="https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000" alt="NEKOBOT-MD"  width="100"/> 
+<img src="https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000" alt="The King Bot-MD"  width="100"/> 
 </p> 
  
 ### 🌟 AGRADECIMIENTOS
