@@ -4,15 +4,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['50495086382', '𝘕𝘌𝘒𝘖𝘉𝘖𝘛-𝘔𝘋 𝘠 𝘌𝘙𝘐𝘒𝘈 👸🔮', true],
-  ['50497501147'],
-  ['50498965677'],
-  ['525573031859'],
+  ['595985958156', 'The King Bot-MD 👸🔮', true],
+  [''],
+  [''],
+  [''],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['50495086382'], 
+global.prems = [''], 
 
 global.APIs = { // API Prefix.
   
@@ -70,8 +70,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🔮𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗🔮'
-global.author = '𝗡𝗲𝗸𝗼 𝗕𝗼𝘁'
+global.packname = '𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓-𝐌𝐃'
+global.author = '𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓-𝐌𝐃'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -81,26 +81,26 @@ global.author = '𝗡𝗲𝗸𝗼 𝗕𝗼𝘁'
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗'
+global.gt = '𝐓𝐡𝐞 𝐊𝐢𝐧𝐠 𝐁𝐨𝐭'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
-global.youtube = yt
+global.yt = 'https://instagram.com/matiass.zzz'
+global.youtube = 
 
-global.ig = 'https://instagram.com/nekobotmd?igshid=YmMyMTA2M2Y='
-global.gatadiosig = ig
+global.ig = ''
+global.gatadiosig =
 
-global.md = 'https://instagram.com/nekobotmd?igshid=YmMyMTA2M2Y='
+global.md = ''
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/HPansN34Tw1JACTIo9vvXd'
+global.nn = 'https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh'
+global.nnn = ''
 global.nnngrupo = nnn
 
-global.paypal = 'https://paypal.me/OficialGD'
-global.donar = paypal
+global.paypal = ''
+global.donar =
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -133,8 +133,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗 | 𝗡𝗲𝗸𝗼 𝗕𝗼𝘁'
-global.igfg = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗'
+global.wm = '𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓-𝐌𝐃 | 𝐓𝐡𝐞 𝐊𝐢𝐧𝐠 𝐁𝐨𝐭 '
+global.igfg = '𝐓𝐇𝐄 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓-𝐌𝐃'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
