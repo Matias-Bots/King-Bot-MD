@@ -94,12 +94,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 ----
-### 🌟 CREADOR
- <p
-  align="higt">    
-<img src="https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000" alt="The King Bot-MD"  width="100"/> 
-</p> 
+
  
-### 🌟 AGRADECIMIENTOS
+### 🌟 CREADOR 
  
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![GataNina-Li](https://github.com/Matias-Bots.png?size=100)](https://github.com/GataNina-Li) 
